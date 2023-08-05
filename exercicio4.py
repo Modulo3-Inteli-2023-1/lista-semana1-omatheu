@@ -19,8 +19,8 @@ def tem_duplicados(lista):
 
 
 # Teste a sua função aqui (caso ache necessário)
-lista = [1, 2, 3, 4, 5, 6, 7, 7, 8, 9]
-print(tem_duplicados(lista))
+# lista = [1, 2, 3, 4, 5, 6, 7, 7, 8, 9]
+# print(tem_duplicados(lista))
  
 
 

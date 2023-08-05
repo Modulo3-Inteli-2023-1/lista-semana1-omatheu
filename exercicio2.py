@@ -18,9 +18,9 @@ def cumutativo(lista):
     return nova_lista
 
 # Teste a sua função aqui (caso ache necessário)
-tst = [1, 2, 3, 4, 5]
+# tst = [1, 2, 3, 4, 5]
 
-print(cumutativo(tst))
+# print(cumutativo(tst))
 
 
 

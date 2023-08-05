@@ -13,7 +13,7 @@ def multiplas_operacoes(a, b):
 
 
 # Teste a sua função aqui (caso ache necessário)
-print(multiplas_operacoes(10, 3))
+# print(multiplas_operacoes(10, 3))
 
 
 

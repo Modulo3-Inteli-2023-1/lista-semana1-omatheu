@@ -20,9 +20,9 @@ def soma_dos_aninhados(listacomlistas):
 
 
 # Teste a sua função aqui (caso ache necessário)
-lista = [[11, 22], [33], [44, 55, 66]]
-resultado = soma_dos_aninhados(lista)
-print(resultado)
+# lista = [[11, 22], [33], [44, 55, 66]]
+# resultado = soma_dos_aninhados(lista)
+# print(resultado)
 
 
 
